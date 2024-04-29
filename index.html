@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Luxury Fashion bootstrap template</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Your description">
+	<meta name="keywords" content="Your keywords">
+	<meta name="author" content="Your name">
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/camera.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/superfish.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/camera.js"></script>
+
+	<script type="text/javascript" src="js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/jcarousel.js"></script>
+	<script>
+		jQuery(document).ready(function () {
+			jQuery('.camera_wrap').camera();
+			jQuery('.camera_prev, .camera_next, ul.social li a img').animate({ 'opacity': '.35' }, 10);
+			jQuery('.camera_prev, .camera_next, ul.social li a img').hover(
+				function () {
+					jQuery(this).animate({ 'opacity': '1' }, 150);
+				},
+				function () {
+					jQuery(this).animate({ 'opacity': '.35' }, 250);
+				}
+			);
+
+			//	Responsive layout, resizing the items
+			$('.carousel.main ul').carouFredSel({
+				auto: 4000,
+				responsive: true,
+				width: '100%',
+				scroll: 1,
+				prev: '#prev',
+				next: '#next',
+				pagination: false,
+				mousewheel: false,
+				swipe: {
+					onMouse: true,
+					onTouch: true
+				},
+				items: {
+					width: 270,
+					height: 'auto',	//	optionally resize item-height
+					visible: {
+						min: 1,
+						max: 4
+					}
+				}
+			});
+
+		});    
+	</script>
+	<!--[if lt IE 8]>
+    		<div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg"border="0"alt=""/></a></div>  
+   	<![endif]-->
+
+	<!--[if (gt IE 9)|!(IE)]><!-->
+	<script type="text/javascript" src="js/jquery.mobile.customized.min.js"></script>
+	<!--<![endif]-->
+	<!--[if lt IE 9]>
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <link rel="stylesheet" href="css/docs.css" type="text/css" media="screen">
+      <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+    <![endif]-->
+</head>
+
+<body>
+
+	<div class="top_padding"></div>
+	<div id="main">
+
+		<!--==============================Header=================================-->
+		<header>
+
+
+			<div class="clearfix">
+				<a href="index.html" class="logo">MILLESTO <span>Wholesome Feasts, Junk-Free Treats!</span></a>
+			</div>
+
+
+			<!--==============================Nav=================================-->
+			<div id="nav_section">
+				<div class="container">
+					<div class="row">
+						<div class="span12">
+							<div class="navbar navbar_ clearfix">
+								<div class="navbar-inner navbar-inner_">
+									<div class="container">
+										<a class="btn btn-navbar" data-toggle="collapse"
+											data-target=".nav-collapse_">MENU</a>
+										<div class="nav-collapse nav-collapse_ collapse">
+											<ul class="nav sf-menu">
+												<li class="active">
+													<a href="index.html">
+														home
+													</a>
+												</li>
+												<li>
+													<a href="">
+														about us
+													</a>
+													<!-- <ul>
+														<li>
+															<a href="index-2.html">
+																what we offer
+															</a>
+														</li>
+														<li class="sub-menu">
+															<a href="index-2.html">
+																who we are
+															</a>
+															<ul>
+																<li>
+																	<a href="index-2.html">our models</a>
+																</li>
+																<li>
+																	<a href="index-2.html">history</a>
+																</li>
+															</ul>
+														</li>
+														<li>
+															<a href="404.html">404 page</a>
+														</li>
+													</ul> -->
+												</li>
+												<li class="sub-menu ">
+													<a href="">
+														products
+													</a>
+												</li>
+												<li>
+													<a href="">
+														health benefits
+													</a>
+												</li>
+												<!-- <li>
+													<a href="index-4.html">
+														services
+													</a>
+												</li> -->
+												<li>
+													<a href="">
+														contacts
+													</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!--==============================Search=========================-->
+					<!-- <form id="search-form" action="search.php" method="GET" accept-charset="utf-8" class="navbar-form">
+						<input type="text" name="s" value='Search' onBlur="if(this.value=='') this.value='Search'"
+							onFocus="if(this.value =='Search' ) this.value=''">
+						<a href="#" onClick="document.getElementById('search-form').submit()"></a>
+					</form> -->
+
+				</div>
+			</div>
+			<!--==============================End Nav=================================-->
+
+
+
+
+
+			<!--==============================Slider=================================-->
+			<div class="slider">
+				<div class="camera_wrap ">
+
+
+					<div data-src="images/slide_1.jpg">
+						<div class="camera_caption">
+							<div class="container">
+								<p>
+									create your unique style
+								</p>
+							</div>
+						</div>
+
+					</div>
+
+
+					<div data-src="images/slide_2.jpg">
+						<div class="camera_caption">
+							<div class="container">
+								<p>
+									create your unique style
+								</p>
+							</div>
+						</div>
+
+					</div>
+
+
+					 <div data-src="images/slide_3.jpg">
+						<div class="camera_caption">
+							<div class="container">
+								<p>
+									create your unique style
+								</p>
+							</div>
+						</div>
+
+					</div>
+					<!--<div data-src="images/slide_4.jpg">
+						<div class="camera_caption">
+							<div class="container">
+								<p>
+									create your unique style
+								</p>
+							</div>
+						</div>
+
+					</div> -->
+
+
+				</div>
+
+
+			</div>
+		</header>
+
+		<!--==============================Carusel=================================-->
+
+		<div class="carousel-box">
+			<div class="inner span12">
+
+				<h3>Delicious Variants</h3>
+
+				<div class="carousel main">
+					<ul>
+						<li>
+							<a href="#">
+								<img src="images/carousel1.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+
+						<li>
+							<a href="#">
+								<img src="images/carousel2.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+
+						<li>
+							<a href="#">
+								<img src="images/carousel3.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+
+						<li>
+							<a href="#">
+								<img src="images/carousel4.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="images/carousel5.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+
+						<li>
+							<a href="#">
+								<img src="images/carousel6.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+
+						<li>
+							<a href="#">
+								<img src="images/carousel7.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Pasta</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li>
+
+						<!-- <li>
+							<a href="#">
+								<img src="images/carousel_4.jpg" alt="" border="0" />
+								<div>
+									<p>
+										<span>Jesica Smith</span>
+										Curabitur nibh lectus
+									</p>
+								</div>
+							</a>
+						</li> -->
+
+					</ul>
+					<a id="prev" href="javascript:;" style="display: block;" class=""></a>
+					<a id="next" href="javascript:;" style="display: block;" class=""></a>
+
+				</div>
+			</div>
+		</div>
+
+
+		<!--==============================Content=================================-->
+		<!-- <section id="content">
+			<div class="container">
+
+				<div class="row ">
+					<div class="clearfix ">
+						<div class="span4">
+							<h1>Welcome</h1>
+							<img src="images/img1.jpg" alt="" border="0" class="aligncenter" />
+
+							<p>
+								<b>Suspendisse enim arcu, convallis non, cursus sed, dignissim et, est. Aenean semper
+									aliquet libero.</b>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum
+								vel pede at sapien sodales mattis. Quisque pretium, lacus nec iaculis vehicula, arcu
+								libero consectetuer massa, auctor aliquet mauris ligula id ipsum. Vestibulum pede.
+								Maecenas sit amet augue. Sed blandit lectus eget lectus. Mauris justo. Curabitur nibh
+								lectus, dapibus
+							</p>
+							<a href="index-1.html" class="btn primary">more info</a>
+
+							<div class="padcontent"></div>
+						</div>
+
+						<div class="span4">
+							<h2>What's new?</h2>
+
+							<p class="news">
+								<span>
+									<i>10</i>
+									<em>December <br />2013</em>
+								</span>
+								<strong>Aenean semper aliquet libero.</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum
+								vel pede at sapien sodales mattis. Quisque pretium, lacus nec iaculis ve
+							</p>
+
+							<p class="news">
+								<span>
+									<i>13</i>
+									<em>September <br />2013</em>
+								</span>
+								<strong>Vestibulum ultrices</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum
+								vel pede at sapien sodales mattis. Quisque pretium, lacus nec iaculis vehicula, arcu
+								libero consectetuer massa.
+							</p>
+
+							<p class="news">
+								<span>
+									<i>20</i>
+									<em>JUNE <br />2013</em>
+								</span>
+								<strong>Lorem ipsum dolor sit</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar. Vestibulum
+								vel pede at sapien sodales mattis. Quisque pretium, lacus nec iaculis vehicula, arcu
+								libero consectetuer massa.
+							</p>
+
+
+							<div class="padcontent"></div>
+						</div>
+
+						<div class="span4">
+							<h2>Events</h2>
+							<p class="events">
+								<img src="images/img2.jpg" alt="" border="0" class="alignleft " />
+								<strong>Aenean semper aliquet libero.</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar.
+								<a href="#" class="more">read more</a>
+							</p>
+							<p class="events">
+								<img src="images/img3.jpg" alt="" border="0" class="alignleft " />
+								<strong>Aenean semper aliquet libero.</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar.
+								<a href="#" class="more">read more</a>
+							</p>
+							<p class="events">
+								<img src="images/img4.jpg" alt="" border="0" class="alignleft " />
+								<strong>Aenean semper aliquet libero.</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar.
+								<a href="#" class="more">read more</a>
+							</p>
+							<p class="events">
+								<img src="images/img5.jpg" alt="" border="0" class="alignleft " />
+								<strong>Aenean semper aliquet libero.</strong>
+								In ante velit, cursus ut, ultrices vitae, tempor ut, risus. Duis pulvinar.
+								<a href="#" class="more">read more</a>
+							</p>
+
+							<div class="padcontent"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> -->
+
+		<div class="clearfix"></div>
+
+
+	</div> <!-- end main -->
+
+
+
+	<!-- {%   Footer   %} -->
+
+	<footer>
+		<!-- <ul class="bottom_menu">
+			<li>
+				<a href="index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="index-1.html">
+					About us
+				</a>
+			</li>
+			<li>
+				<a href="index-2.html">
+					designers
+				</a>
+			</li>
+			<li>
+				<a href="index-3.html">
+					collections
+				</a>
+			</li>
+			<li>
+				<a href="index-4.html">
+					Services
+				</a>
+			</li>
+			<li>
+				<a href="index-5.html">
+					Contacts
+				</a>
+			</li>
+		</ul> -->
+
+		<h4>super food</h4>
+
+		<ul class="social">
+
+			<li><a href="#"><img src="images/social_1.png" alt="" width="35" height="33" border="0" /></a></li>
+			<!-- <li><a href="#"><img src="images/social_2.png" alt="" width="35" height="33" border="0" /></a></li> -->
+			<li><a href="#"><img src="images/social_3.png" alt="" width="35" height="33" border="0" /></a></li>
+			<li><a href="#"><img src="images/social_4.png" alt="" width="35" height="33" border="0" /></a></li>
+			<li><a href="#"><img src="images/social_5.png" alt="" width="35" height="33" border="0" /></a></li>
+
+		</ul>
+
+		<p class="copy">
+			Copyright Millesto &copy; 2024. <a href="https://www.kagrotech.com" target="_blank">Kagro</a> All rights reserved. / <a
+				href="">Privacy Policy</a>
+		</p>
+
+
+
+	</footer>
+
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+.navbar_ .nav-collapse_ , .navbar_ collapse {
+    overflow: visible;
+  }
+  body {
+  	min-width: 1000px;
+  }
+ #panel .nav-collapse.collapse {
+ 	overflow: visible;
+  }
+#advanced span.trigger strong{filter:alpha(opacity=0);}
+#advanced.closed span.trigger strong{filter:alpha(opacity=100);}
+
+#advanced .dropdown-menu li li a {
+  display: inline-block;
+}
+
+/*******/	#main, footer {
+		max-width:1000px
+	}
+	a.logo{
+		font-size:64px
+	}
+  .nav-collapse_ .nav > li + li {
+		margin-left:10px;
+		padding-left:15px;
+	}
+  .nav-collapse_ .nav > li a{
+		font-size:14px;
+		padding:0 10px
+	}
+	.camera_caption p {
+		font-size:60px;
+		//line-height:60px
+	}
+	div.carousel-box ul li {
+		margin-right:40px;
+		width:205px!important;
+		min-height:195px!important
+	}
+
+	#content img{
+		max-width:93%
+	}
+	h4 {
+		font-size:52px
+	}
+	h3{
+		//padding-top:35px
+	}
