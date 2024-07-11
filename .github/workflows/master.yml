@@ -1,6 +1,5 @@
 # public_html folder
 
-
 on:
   push:
     branches:
