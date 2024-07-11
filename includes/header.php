@@ -72,6 +72,7 @@
                             <a href="blog.php" class="nav-item nav-link">Blog</a>
                             <a href="recipes.php" class="nav-item nav-link">Recipes</a>
                             <!-- <a href="reviews.php" class="nav-item nav-link">Reviews</a> -->
+                             <!-- Testimonial -->
 
                             <!-- <a href="shop-detail.html" class="nav-item nav-link">Shop Detail</a> -->
                             <!-- <div class="nav-item dropdown">
