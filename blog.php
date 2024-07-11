@@ -42,10 +42,10 @@ include "includes/header.php";
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
-										<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+										<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 									</span>
 									<span class="author-meta">
-										<span class="post-name"><a href="author.html">Steve</a></span><br />
+										<span class="post-name"><a href="author.php">Steve</a></span><br />
 										<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 									</span>
 									<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -75,10 +75,10 @@ include "includes/header.php";
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
-										<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+										<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 									</span>
 									<span class="author-meta">
-										<span class="post-name"><a href="author.html">Jane</a></span><br />
+										<span class="post-name"><a href="author.php">Jane</a></span><br />
 										<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 									</span>
 									<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -108,10 +108,10 @@ include "includes/header.php";
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
-										<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+										<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 									</span>
 									<span class="author-meta">
-										<span class="post-name"><a href="author.html">Mary</a></span><br />
+										<span class="post-name"><a href="author.php">Mary</a></span><br />
 										<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 									</span>
 									<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -141,10 +141,10 @@ include "includes/header.php";
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
-										<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+										<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 									</span>
 									<span class="author-meta">
-										<span class="post-name"><a href="author.html">Sal</a></span><br />
+										<span class="post-name"><a href="author.php">Sal</a></span><br />
 										<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 									</span>
 									<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -182,10 +182,10 @@ include "includes/header.php";
 					<div class="metafooter">
 						<div class="wrapfooter">
 							<span class="meta-footer-thumb">
-								<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+								<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 							</span>
 							<span class="author-meta">
-								<span class="post-name"><a href="author.html">Sal</a></span><br />
+								<span class="post-name"><a href="author.php">Sal</a></span><br />
 								<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 							</span>
 							<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -208,10 +208,10 @@ include "includes/header.php";
 					<div class="metafooter">
 						<div class="wrapfooter">
 							<span class="meta-footer-thumb">
-								<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+								<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 							</span>
 							<span class="author-meta">
-								<span class="post-name"><a href="author.html">Sal</a></span><br />
+								<span class="post-name"><a href="author.php">Sal</a></span><br />
 								<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 							</span>
 							<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -234,10 +234,10 @@ include "includes/header.php";
 					<div class="metafooter">
 						<div class="wrapfooter">
 							<span class="meta-footer-thumb">
-								<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+								<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 							</span>
 							<span class="author-meta">
-								<span class="post-name"><a href="author.html">Sal</a></span><br />
+								<span class="post-name"><a href="author.php">Sal</a></span><br />
 								<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 							</span>
 							<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -260,10 +260,10 @@ include "includes/header.php";
 					<div class="metafooter">
 						<div class="wrapfooter">
 							<span class="meta-footer-thumb">
-								<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+								<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 							</span>
 							<span class="author-meta">
-								<span class="post-name"><a href="author.html">Sal</a></span><br />
+								<span class="post-name"><a href="author.php">Sal</a></span><br />
 								<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 							</span>
 							<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -286,10 +286,10 @@ include "includes/header.php";
 					<div class="metafooter">
 						<div class="wrapfooter">
 							<span class="meta-footer-thumb">
-								<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+								<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 							</span>
 							<span class="author-meta">
-								<span class="post-name"><a href="author.html">Sal</a></span><br />
+								<span class="post-name"><a href="author.php">Sal</a></span><br />
 								<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 							</span>
 							<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">
@@ -312,10 +312,10 @@ include "includes/header.php";
 					<div class="metafooter">
 						<div class="wrapfooter">
 							<span class="meta-footer-thumb">
-								<a href="author.html"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
+								<a href="author.php"><img class="author-thumb" src="https://www.gravatar.com/avatar/e56154546cf4be74e393c62d1ae9f9d4?s=250&amp;d=mm&amp;r=x" alt="Sal"></a>
 							</span>
 							<span class="author-meta">
-								<span class="post-name"><a href="author.html">Sal</a></span><br />
+								<span class="post-name"><a href="author.php">Sal</a></span><br />
 								<span class="post-date">22 July 2017</span><span class="dot"></span><span class="post-read">6 min read</span>
 							</span>
 							<span class="post-read-more"><a href="post.php" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25">

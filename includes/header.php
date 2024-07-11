@@ -68,7 +68,7 @@
                         <div class="navbar-nav mx-auto">
                             <a href="index.php" class="nav-item nav-link active">Home</a>
                             <a href="about.php" class="nav-item nav-link">About</a>
-                            <a href="shop.html" class="nav-item nav-link">Shop</a>
+                            <a href="shop.php" class="nav-item nav-link">Shop</a>
                             <a href="blog.php" class="nav-item nav-link">Blog</a>
                             <a href="recipes.php" class="nav-item nav-link">Recipes</a>
                             <!-- <a href="reviews.php" class="nav-item nav-link">Reviews</a> -->
