@@ -95,7 +95,8 @@
 
 
 <!-- JavaScript Libraries -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script> -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="lib/easing/easing.min.js"></script>
 <script src="lib/waypoints/waypoints.min.js"></script>
@@ -103,7 +104,7 @@
 <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
 <!-- For Blog Pages -->
-<script src="js/jquery.min.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/ie10-viewport-bug-workaround.js"></script>
