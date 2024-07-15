@@ -11,7 +11,7 @@ include "includes/header.php";
 	<div class="mainheading">
 		<h1 class="sitetitle">Articles of Interest</h1>
 		<p class="lead">
-			Bootstrap theme, medium style, simply perfect for bloggers
+			Health benefits, Nutrition and other information!
 		</p>
 	</div>
 	<!-- End Site Title
@@ -37,8 +37,8 @@ include "includes/header.php";
 					</div>
 					<div class="col-md-7">
 						<div class="card-block">
-							<h2 class="card-title"><a href="post.php">We're living some strange times</a></h2>
-							<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
+							<h2 class="card-title"><a href="post.php">Power of Millets</a></h2>
+							<h4 class="card-text">Millets also called "Superfood" is a powerhouse of Nutrition required by humans. These ancient grains were forgotten due to the commercialisation of packaged foods until now. However, Millets have come back and getting into the daily food slowly.</h4>
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
@@ -70,8 +70,8 @@ include "includes/header.php";
 					</div>
 					<div class="col-md-7">
 						<div class="card-block">
-							<h2 class="card-title"><a href="post.php">The beauty of this world is in your heart</a></h2>
-							<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
+							<h2 class="card-title"><a href="post.php">Modern Foods made with Millets</a></h2>
+							<h4 class="card-text">With modern machines capable of producing various ready-to-eat products, millet based food comes in various forms<br><br> The ever loved Pasta - normally cannot be taken regularly - now is made of millet grains. The millet based pasta can be taken on a daily basis, as it does not contain any harmful components like MSG, preservatives, artificial colouring, etc. and are Natural.</h4>
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
@@ -103,8 +103,8 @@ include "includes/header.php";
 					</div>
 					<div class="col-md-7">
 						<div class="card-block">
-							<h2 class="card-title"><a href="post.php">Dreaming of Las Vegas Crazyness</a></h2>
-							<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
+							<h2 class="card-title"><a href="post.php">Millet Grains - How to incorporate in daily life.</a></h2>
+							<h4 class="card-text">Millets can be incorporated in various forms into our daily food and ensure that we get the required nutrition to keep our body healthy and increase our immune powers.<br><br>We have a separate section for recipes which will help you to use millets as part of your daily cooking.</h4>
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
@@ -136,8 +136,8 @@ include "includes/header.php";
 					</div>
 					<div class="col-md-7">
 						<div class="card-block">
-							<h2 class="card-title"><a href="post.php">San Francisco at its best view in all seasons</a></h2>
-							<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
+							<h2 class="card-title"><a href="post.php">The best Plant Nutrition</a></h2>
+							<h4 class="card-text">Plant based nutrition is lost when the products are manufactured and packaged, as various synthetic chemical based preservatives and stabilizers are added.<br><br>Millets on the other hand does not require most of the synthetic chemicals for its food production. Thus, you can be sure that you get the best Plant based Nutrition, by consuming Millet based products.</h4>
 							<div class="metafooter">
 								<div class="wrapfooter">
 									<span class="meta-footer-thumb">
@@ -177,7 +177,7 @@ include "includes/header.php";
 					<img class="img-fluid" src="assets/img/demopic/5.jpg" alt="">
 				</a>
 				<div class="card-block">
-					<h2 class="card-title"><a href="post.php">Autumn doesn't have to be nostalgic, you know?</a></h2>
+					<h2 class="card-title"><a href="post.php">All time food from the same grains. Do you know?</a></h2>
 					<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
 					<div class="metafooter">
 						<div class="wrapfooter">
@@ -203,7 +203,7 @@ include "includes/header.php";
 					<img class="img-fluid" src="assets/img/demopic/6.jpg" alt="">
 				</a>
 				<div class="card-block">
-					<h2 class="card-title"><a href="post.php">Best galleries in the world with photos</a></h2>
+					<h2 class="card-title"><a href="post.php">The various benefits of Millet Grains, from health to immunity.</a></h2>
 					<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
 					<div class="metafooter">
 						<div class="wrapfooter">
@@ -229,7 +229,7 @@ include "includes/header.php";
 					<img class="img-fluid" src="assets/img/demopic/7.jpg" alt="">
 				</a>
 				<div class="card-block">
-					<h2 class="card-title"><a href="post.php">Little red dress and a perfect summer</a></h2>
+					<h2 class="card-title"><a href="post.php">Little grains, massive nutrition. How to get the best of it.</a></h2>
 					<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
 					<div class="metafooter">
 						<div class="wrapfooter">
@@ -255,7 +255,7 @@ include "includes/header.php";
 					<img class="img-fluid" src="assets/img/demopic/8.jpg" alt="">
 				</a>
 				<div class="card-block">
-					<h2 class="card-title"><a href="post.php">Thinking outside the box can help you prosper</a></h2>
+					<h2 class="card-title"><a href="post.php">Thinking outside the box can provide you more immunity.</a></h2>
 					<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
 					<div class="metafooter">
 						<div class="wrapfooter">
@@ -281,7 +281,7 @@ include "includes/header.php";
 					<img class="img-fluid" src="assets/img/demopic/9.jpg" alt="">
 				</a>
 				<div class="card-block">
-					<h2 class="card-title"><a href="post.php">10 Things you should know about choosing your house</a></h2>
+					<h2 class="card-title"><a href="post.php">10 Things you should know about choosing your food.</a></h2>
 					<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
 					<div class="metafooter">
 						<div class="wrapfooter">
@@ -307,7 +307,7 @@ include "includes/header.php";
 					<img class="img-fluid" src="assets/img/demopic/10.jpg" alt="">
 				</a>
 				<div class="card-block">
-					<h2 class="card-title"><a href="post.php">Visiting the world means learning cultures</a></h2>
+					<h2 class="card-title"><a href="post.php">Changing your food means, upgrading your life.</a></h2>
 					<h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
 					<div class="metafooter">
 						<div class="wrapfooter">
