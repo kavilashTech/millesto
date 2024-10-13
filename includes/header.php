@@ -48,13 +48,13 @@
             <div class="container topbar bg-primary d-none d-lg-block">
                 <div class="d-flex justify-content-between">
                     <div class="top-info ps-2">
-                        <small class="me-3"><i class="fas fa-map-marker-alt me-2 text-secondary"></i> <a href="#" class="text-white">123 Street, New York</a></small>
-                        <small class="me-3"><i class="fas fa-envelope me-2 text-secondary"></i><a href="#" class="text-white">Email@Example.com</a></small>
+                        <small class="me-3"><i class="fas fa-map-marker-alt me-2 text-secondary"></i> <a href="#" class="text-white">15 B/2, Bhaskar Street, Nehru Nagar, Saligramam, Chennai, INDIA</a></small>
+                        <small class="me-3"><i class="fas fa-envelope me-2 text-secondary"></i><a href="#" class="text-white">contact@kagrotech.com</a></small>
                     </div>
                     <div class="top-link pe-2">
-                        <a href="#" class="text-white"><small class="text-white mx-2">Privacy Policy</small>/</a>
-                        <a href="#" class="text-white"><small class="text-white mx-2">Terms of Use</small>/</a>
-                        <a href="#" class="text-white"><small class="text-white ms-2">Sales and Refunds</small></a>
+                        <a href="404.php" class="text-white"><small class="text-white mx-2">Privacy Policy</small>/</a>
+                        <a href="404.php" class="text-white"><small class="text-white mx-2">Terms of Use</small>/</a>
+                        <a href="404.php" class="text-white"><small class="text-white ms-2">Sales and Refunds</small></a>
                     </div>
                 </div>
             </div>
@@ -68,9 +68,10 @@
                         <div class="navbar-nav mx-auto">
                             <a href="index.php" class="nav-item nav-link active">Home</a>
                             <a href="about.php" class="nav-item nav-link">About</a>
-                            <a href="shop.php" class="nav-item nav-link">Shop</a>
+                            <a href="404.php" class="nav-item nav-link">Products</a>
+                            <a href="404.php" class="nav-item nav-link">B2B</a>
                             <a href="blog.php" class="nav-item nav-link">Blog</a>
-                            <a href="recipes.php" class="nav-item nav-link">Recipes</a>
+                            <a href="404.php" class="nav-item nav-link">Recipes</a>
                             <!-- <a href="reviews.php" class="nav-item nav-link">Reviews</a> -->
                              <!-- Testimonial -->
 
