@@ -10,10 +10,10 @@
                     </a>
                 </div>
                 <div class="col-lg-6">
-                    <div class="position-relative mx-auto">
+                    <!-- <div class="position-relative mx-auto">
                         <input class="form-control border-0 w-100 py-3 px-4 rounded-pill" type="number" placeholder="Your Email">
                         <button type="submit" class="btn btn-primary border-0 border-secondary py-3 px-4 position-absolute rounded-pill text-white" style="top: 0; right: 0;">Subscribe Now</button>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-3">
                     <div class="d-flex justify-content-end pt-3">
@@ -29,40 +29,40 @@
             <div class="col-lg-3 col-md-6">
                 <div class="footer-item">
                     <h4 class="text-light mb-3">Why People Like us!</h4>
-                    <p class="mb-4">Bringing the highly nutritious and healthy food in the best liked food form with authencity and lots of love! At an affordable price!</p>
+                    <p class="mb-4">Bringing superfood - ancient grains in the best form, with authencity and lots of love! <B>At an affordable price!</B></p>
                     <a href="" class="btn border-secondary py-2 px-4 rounded-pill text-primary">Read More</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="d-flex flex-column text-start footer-item">
-                    <h4 class="text-light mb-3">Shop Info</h4>
+                    <h4 class="text-light mb-3">About</h4>
                     <a class="btn-link" href="about.php">About Us</a>
                     <a class="btn-link" href="contact.php">Contact Us</a>
-                    <a class="btn-link" href="">Privacy Policy</a>
+                    <a class="btn-link" href="privacy-policy.php">Privacy Policy</a>
                     <a class="btn-link" href="">Terms & Condition</a>
-                    <a class="btn-link" href="">Return Policy</a>
-                    <a class="btn-link" href="">FAQs & Help</a>
+                    <!-- <a class="btn-link" href="">Return Policy</a> -->
+                    <!-- <a class="btn-link" href="">FAQs & Help</a> -->
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="d-flex flex-column text-start footer-item">
-                    <h4 class="text-light mb-3">Account</h4>
-                    <a class="btn-link" href="">My Account</a>
-                    <a class="btn-link" href="">Shop details</a>
-                    <a class="btn-link" href="">Shopping Cart</a>
-                    <a class="btn-link" href="">Wishlist</a>
-                    <a class="btn-link" href="">Order History</a>
-                    <a class="btn-link" href="">International Orders</a>
+                    <h4 class="text-light mb-3">Quicklinks</h4>
+                    <!-- <a class="btn-link" href="">Products</a> -->
+                    <!-- <a class="btn-link" href="">Recipes</a> -->
+                    <a class="btn-link" href="">Articles</a>
+                    <a class="btn-link" href="">Recipes</a>
+                    <!-- <a class="btn-link" href="">Order History</a>
+                    <a class="btn-link" href="">International Orders</a> -->
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="footer-item">
                     <h4 class="text-light mb-3">Contact</h4>
-                    <p>Address: 1429 Netus Rd, NY 48247</p>
-                    <p>Email: Example@gmail.com</p>
-                    <p>Phone: +0123 4567 8910</p>
-                    <p>Payment Accepted</p>
-                    <img src="img/payment.png" class="img-fluid" alt="">
+                    <p>Address: 15 B/2, Bhaskar Street, Nehru Nagar, Saligramam, Chennai, INDIA</p>
+                    <p>Email: contact@kagrotech.com</p>
+                    <p>Phone: +91 7708960727</p>
+                    <!-- <p>Payment Accepted</p>
+                    <img src="img/payment.png" class="img-fluid" alt=""> -->
                 </div>
             </div>
         </div>

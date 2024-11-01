@@ -54,7 +54,7 @@
                     <div class="top-link pe-2">
                         <a href="404.php" class="text-white"><small class="text-white mx-2">Privacy Policy</small>/</a>
                         <a href="404.php" class="text-white"><small class="text-white mx-2">Terms of Use</small>/</a>
-                        <a href="404.php" class="text-white"><small class="text-white ms-2">Sales and Refunds</small></a>
+                        <!-- <a href="404.php" class="text-white"><small class="text-white ms-2">Sales and Refunds</small></a> -->
                     </div>
                 </div>
             </div>
