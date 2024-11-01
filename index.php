@@ -122,8 +122,8 @@ include "includes/header.php";
                     <h4>Jowar Pasta</h4>
                     <p>Made from high quality jowar, without any artificial flavours or preservatives.</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -136,8 +136,8 @@ include "includes/header.php";
                     <h4>Kodo Pasta</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -150,8 +150,8 @@ include "includes/header.php";
                     <h4>Finger Millet Noodles</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -164,8 +164,8 @@ include "includes/header.php";
                     <h4>Kodo Millet Grains</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -178,8 +178,8 @@ include "includes/header.php";
                     <h4>Kodo Millet Pasta</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -192,8 +192,8 @@ include "includes/header.php";
                     <h4>Millet Flakes</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -206,8 +206,8 @@ include "includes/header.php";
                     <h4>Pearl Millet Noodles</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -220,8 +220,8 @@ include "includes/header.php";
                     <h4>Pearl Millet Grains</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
                     <div class="d-flex justify-content-between flex-lg-wrap">
-                        <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        <!-- <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -291,7 +291,7 @@ include "includes/header.php";
                     <h1 class="display-3 text-white">Fresh Healthy Millets</h1>
                     <p class="fw-normal display-3 text-dark mb-4">in Our Store</p>
                     <p class="mb-4 text-dark">Millet Grains are called "Nutrition Powerhouse" as they contain high level of Nutrients required for humans.</p>
-                    <a href="#" class="banner-btn btn border-2 border-white rounded-pill text-dark py-3 px-5">VISIT</a>
+                    <a href="#" class="banner-btn btn border-2 border-white rounded-pill text-dark py-3 px-5">More...</a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -328,15 +328,15 @@ include "includes/header.php";
                         </div>
                         <div class="col-6">
                             <a href="#" class="h5">Barnyard Pasta</a>
-                            <div class="d-flex my-3">
+                            <!-- <div class="d-flex my-3">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="mb-3">3.49 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            </div> -->
+                            <!-- <h4 class="mb-3">3.49 $</h4> -->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                         </div>
                     </div>
                 </div>
@@ -349,15 +349,15 @@ include "includes/header.php";
                         </div>
                         <div class="col-6">
                             <a href="#" class="h5">Foxtail Pasta</a>
-                            <div class="d-flex my-3">
+                            <!-- <div class="d-flex my-3">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="mb-3">3.49 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            </div> -->
+                            <!-- <h4 class="mb-3">3.49 $</h4> -->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                         </div>
                     </div>
                 </div>
@@ -370,15 +370,15 @@ include "includes/header.php";
                         </div>
                         <div class="col-6">
                             <a href="#" class="h5">Pearl Millet Noodles</a>
-                            <div class="d-flex my-3">
+                            <!-- <div class="d-flex my-3">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="mb-3">3.49 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            </div> -->
+                            <!-- <h4 class="mb-3">3.49 $</h4> -->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                         </div>
                     </div>
                 </div>
@@ -391,15 +391,15 @@ include "includes/header.php";
                         </div>
                         <div class="col-6">
                             <a href="#" class="h5">Finger Millet Noodles</a>
-                            <div class="d-flex my-3">
+                            <!-- <div class="d-flex my-3">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="mb-3">3.49 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            </div> -->
+                            <!-- <h4 class="mb-3">3.49 $</h4> -->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                         </div>
                     </div>
                 </div>
@@ -412,15 +412,15 @@ include "includes/header.php";
                         </div>
                         <div class="col-6">
                             <a href="#" class="h5">Kodo Millet Pasta</a>
-                            <div class="d-flex my-3">
+                            <!-- <div class="d-flex my-3">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="mb-3">3.49 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            </div> -->
+                            <!-- <h4 class="mb-3">3.49 $</h4> -->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                         </div>
                     </div>
                 </div>
@@ -433,15 +433,15 @@ include "includes/header.php";
                         </div>
                         <div class="col-6">
                             <a href="#" class="h5">Jower Millet Pasta</a>
-                            <div class="d-flex my-3">
+                            <!-- <div class="d-flex my-3">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="mb-3">4.99 $</h4>
-                            <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                            </div> -->
+                            <!-- <h4 class="mb-3">4.99 $</h4> -->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                         </div>
                     </div>
                 </div>
@@ -451,15 +451,15 @@ include "includes/header.php";
                     <img src="img/jowar-millet.jpg" class="img-fluid rounded" alt="">
                     <div class="py-4">
                         <a href="#" class="h5">Jowar Millet</a>
-                        <div class="d-flex my-3 justify-content-center">
+                        <!-- <div class="d-flex my-3 justify-content-center">
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star"></i>
-                        </div>
-                        <h4 class="mb-3">4.99 $</h4>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        </div> -->
+                        <!-- <h4 class="mb-3">4.99 $</h4> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -468,15 +468,15 @@ include "includes/header.php";
                     <img src="img/kodo-millet.jpg" class="img-fluid rounded" alt="">
                     <div class="py-4">
                         <a href="#" class="h5">Kodo Millet</a>
-                        <div class="d-flex my-3 justify-content-center">
+                        <!-- <div class="d-flex my-3 justify-content-center">
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star"></i>
-                        </div>
-                        <h4 class="mb-3">4.99 $</h4>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        </div> -->
+                        <!-- <h4 class="mb-3">4.99 $</h4> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -485,15 +485,15 @@ include "includes/header.php";
                     <img src="img/pearl-millet.jpg" class="img-fluid rounded" alt="">
                     <div class="py-4">
                         <a href="#" class="h5">Pearl Millet</a>
-                        <div class="d-flex my-3 justify-content-center">
+                        <!-- <div class="d-flex my-3 justify-content-center">
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star"></i>
-                        </div>
-                        <h4 class="mb-3">4.99 $</h4>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        </div> -->
+                        <!-- <h4 class="mb-3">4.99 $</h4> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -502,15 +502,15 @@ include "includes/header.php";
                     <img src="img/finger-millet.jpg" class="img-fluid rounded" alt="">
                     <div class="py-4">
                         <a href="#" class="h5">Finger Millet</a>
-                        <div class="d-flex my-3 justify-content-center">
+                        <!-- <div class="d-flex my-3 justify-content-center">
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star text-primary"></i>
                             <i class="fas fa-star"></i>
-                        </div>
-                        <h4 class="mb-3">4.49 $</h4>
-                        <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                        </div> -->
+                        <!-- <h4 class="mb-3">4.49 $</h4> -->
+                        <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> -->
                     </div>
                 </div>
             </div>
@@ -532,13 +532,13 @@ include "includes/header.php";
                         <h1>1963</h1>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-6 col-xl-3">
+                <!-- <div class="col-md-6 col-lg-6 col-xl-3">
                     <div class="counter bg-white rounded p-5">
                         <i class="fa fa-users text-secondary"></i>
                         <h4>quality of service</h4>
                         <h1>99%</h1>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-6 col-lg-6 col-xl-3">
                     <div class="counter bg-white rounded p-5">
                         <i class="fa fa-users text-secondary"></i>
@@ -572,22 +572,23 @@ include "includes/header.php";
                 <div class="position-relative">
                     <i class="fa fa-quote-right fa-2x text-secondary position-absolute" style="bottom: 30px; right: 0;"></i>
                     <div class="mb-4 pb-4 border-bottom border-secondary">
-                        <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,
+                        <p class="mb-0">The Millet noodles and pasta are extremely delicious. They are soft and very easy to cook. Extremely tasty especially with the masala. It tastes just like Maggi and no one can find out the difference between the two. Being healthier, there is no question of going back to maida products, it's a no brainer. Very Happy with the product and I would highly recommend it
                         </p>
                     </div>
                     <div class="d-flex align-items-center flex-nowrap">
                         <div class="bg-secondary rounded">
-                            <img src="img/testimonial-1.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
+                            <img src="img/avatar.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
                         </div>
                         <div class="ms-4 d-block">
-                            <h4 class="text-dark">Aubrey</h4>
-                            <p class="m-0 pb-3">Vice President, Sales</p>
+                            <h4 class="text-dark">Shivani</h4>
+                            <p class="m-0 pb-3">London, UK</p>
                             <div class="d-flex pe-5">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
-                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <!-- <i class="fas fa-star"></i> -->
                             </div>
                         </div>
                     </div>
@@ -597,16 +598,16 @@ include "includes/header.php";
                 <div class="position-relative">
                     <i class="fa fa-quote-right fa-2x text-secondary position-absolute" style="bottom: 30px; right: 0;"></i>
                     <div class="mb-4 pb-4 border-bottom border-secondary">
-                        <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,
+                        <p class="mb-0">The taste of the Pasta and Noodles is just awesome. All my friends who tasted these products likes it very much. Kudos to a great tasting and nutritious product. Will surely recommend this product.
                         </p>
                     </div>
                     <div class="d-flex align-items-center flex-nowrap">
                         <div class="bg-secondary rounded">
-                            <img src="img/testimonial-1.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
+                            <img src="img/avatar.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
                         </div>
                         <div class="ms-4 d-block">
-                            <h4 class="text-dark">Naresh Ganisan, Malaysia</h4>
-                            <p class="m-0 pb-3">Owner, Food Cart</p>
+                            <h4 class="text-dark">Naresh Ganisan</h4>
+                            <p class="m-0 pb-3">Owner, Food Cart, Malaysia</p>
                             <div class="d-flex pe-5">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -622,16 +623,41 @@ include "includes/header.php";
                 <div class="position-relative">
                     <i class="fa fa-quote-right fa-2x text-secondary position-absolute" style="bottom: 30px; right: 0;"></i>
                     <div class="mb-4 pb-4 border-bottom border-secondary">
-                        <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,
+                        <p class="mb-0">The coconut buds are out of the world and could'nt stop eating. Very good and healthy snacks for children. The Millet Pasta is awesome and my kids have started eating only millet pasta after tasting your product.
                         </p>
                     </div>
                     <div class="d-flex align-items-center flex-nowrap">
                         <div class="bg-secondary rounded">
-                            <img src="img/testimonial-1.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
+                            <img src="img/avatar.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
                         </div>
                         <div class="ms-4 d-block">
-                            <h4 class="text-dark">Client Name</h4>
-                            <p class="m-0 pb-3">Profession</p>
+                            <h4 class="text-dark">Thirulok Chander</h4>
+                            <p class="m-0 pb-3">Sydney, Australia</p>
+                            <div class="d-flex pe-5">
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testimonial-item img-border-radius bg-light rounded p-4">
+                <div class="position-relative">
+                    <i class="fa fa-quote-right fa-2x text-secondary position-absolute" style="bottom: 30px; right: 0;"></i>
+                    <div class="mb-4 pb-4 border-bottom border-secondary">
+                        <p class="mb-0">Sorghum pasta for dinner today. I added some veg and pasta sauce along with the masala that came with it. Tastes really good.
+                        </p>
+                    </div>
+                    <div class="d-flex align-items-center flex-nowrap">
+                        <div class="bg-secondary rounded">
+                            <img src="img/avatar.jpg" class="img-fluid rounded" style="width: 100px; height: 100px;" alt="">
+                        </div>
+                        <div class="ms-4 d-block">
+                            <h4 class="text-dark">Srikanth</h4>
+                            <p class="m-0 pb-3">London, UK</p>
                             <div class="d-flex pe-5">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
