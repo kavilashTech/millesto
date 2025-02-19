@@ -28,10 +28,11 @@ include "includes/header.php";
                         </div>
                         <div class="col-lg-12">
                             <div class="h-100 rounded">
-                                <iframe class="rounded w-100" 
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d540.0991831145448!2d80.20078688804472!3d13.059418475177061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1705583597284!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <!-- <iframe class="rounded w-100" 
                                 
                                 style="height: 400px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1690.3597536055295!2d150.9474130387769!3d-33.78766626411771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b1298795bacfda7%3A0xef39c5d7ac270cbc!2sToongabbie%20NSW%202146%2C%20Australia!5e1!3m2!1sen!2sin!4v1722336973565!5m2!1sen!2sin" 
-                                loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
                             </div>
                         </div>
 
@@ -50,21 +51,21 @@ include "includes/header.php";
                                 <i class="fas fa-map-marker-alt fa-2x text-primary me-4"></i>
                                 <div>
                                     <h4>Address</h4>
-                                    <p class="mb-2">10, Junia Ave, Toongabbie, NSW 2146, Australia</p>
+                                    <p class="mb-2">15 B/2, Bhaskar Street, Nehru Nagar, Saligramam, Chennai 600093, INDIA</p>
                                 </div>
                             </div>
                             <div class="d-flex p-4 rounded mb-4 bg-white">
                                 <i class="fas fa-envelope fa-2x text-primary me-4"></i>
                                 <div>
                                     <h4>Mail Us</h4>
-                                    <p class="mb-2">info@example.com</p>
+                                    <p class="mb-2">contact@kagrotech.com</p>
                                 </div>
                             </div>
                             <div class="d-flex p-4 rounded bg-white">
                                 <i class="fa fa-phone-alt fa-2x text-primary me-4"></i>
                                 <div>
                                     <h4>Telephone</h4>
-                                    <p class="mb-2">+61 401 472 787</p>
+                                    <p class="mb-2">+91 7708960727</p>
                                 </div>
                             </div>
                         </div>
